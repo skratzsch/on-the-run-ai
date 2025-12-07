@@ -1,0 +1,7 @@
+asgiref==3.11.0
+Django==6.0
+sqlparse==0.5.4
+psycopg2-binary==2.9.11
+djangorestframework==3.16.1
+langchain==1.1.2
+pgvector==0.4.2
