@@ -1,6 +1,6 @@
 # Virtuelle Umgebung
 venv/
-on-the-run-ai/
+on-the-run-python-env/
 
 # Python-Cache
 __pycache__/
